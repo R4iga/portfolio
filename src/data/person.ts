@@ -75,6 +75,13 @@ export const person = {
       url: 'https://ascii-mirror-tawny.vercel.app',
       c: '#5b8cff',
     },
+    {
+      name: 'Surveillance Filter',
+      desc: 'Upload a video and it becomes CCTV footage — real motion-tracking boxes, blink glitches, scanlines, and fully customizable overlay text. 100% in-browser, nothing uploaded.',
+      tag: 'Live demo',
+      url: 'https://surveillance-filter-six.vercel.app',
+      c: '#39ff7a',
+    },
   ],
 
   stack: [
