@@ -56,10 +56,17 @@ export const person = {
   projects: [
     {
       name: 'Personal OS',
-      desc: 'A cyberpunk command-center dashboard — live clock, real weather, persistent notes, and a link grid. A tool I actually use every day.',
+      desc: 'A cyberpunk command-center dashboard — live clock, real weather, persistent notes, and a Cmd+K command bar. A tool I actually use every day.',
       tag: 'Live demo',
-      url: 'http://localhost:3002',
+      url: 'https://personal-os-two-psi.vercel.app',
       c: '#00ffc6',
+    },
+    {
+      name: 'Moodstrip',
+      desc: 'A daily mood ritual — 15 real emotional states become a colored horizon of your year. 100% local, no backend.',
+      tag: 'Live demo',
+      url: 'https://moodstrip.vercel.app',
+      c: '#f5a623',
     },
   ],
 
