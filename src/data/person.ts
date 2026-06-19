@@ -68,6 +68,13 @@ export const person = {
       url: 'https://moodstrip.vercel.app',
       c: '#f5a623',
     },
+    {
+      name: 'ASCII Mirror',
+      desc: 'Your webcam rendered as live, color-shifting ASCII art in real time. 5 char sets, 4 color modes, zero recording — frames never leave your browser.',
+      tag: 'Live demo',
+      url: 'https://ascii-mirror-tawny.vercel.app',
+      c: '#5b8cff',
+    },
   ],
 
   stack: [
